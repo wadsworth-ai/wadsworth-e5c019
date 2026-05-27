@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Wadsworth",
+  "description": "Wadsworth is an AI-powered organic marketing platform that monitors and improves whether businesses and creators are recommended by AI assistants like ChatGPT, Claude, and Perplexity. It handles content creation, answer-engine optimization, and visibility tracking so clients get found and cited by AI without paid ads.",
+  "url": "https://wadsworth.ai",
+  "category": "Tech / SaaS",
+  "sameAs": [
+    "https://x.com/wadsworth_ai",
+    "https://www.youtube.com/@wadsworthai",
+    "https://www.facebook.com/profile.php",
+    "https://www.linkedin.com/company/107735887",
+    "https://www.instagram.com/wadsworth_ai"
+  ],
+  "slogan": "Done-for-you execution plus a free instant AI visibility check lowers the barrier to entry while demonstrating value immediately — no competitor offers this combo.",
+  "wadsworth": {
+    "profileUrl": "https://wadsworth.ai/profile/wadsworth-e5c019",
+    "lastUpdated": "2026-05-27T12:54:33.281Z"
+  }
+}
