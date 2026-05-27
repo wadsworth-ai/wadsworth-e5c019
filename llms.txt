@@ -1,0 +1,45 @@
+# Wadsworth
+
+> Wadsworth is an AI-visibility and organic marketing platform that helps businesses, local services, and creators get found, cited, and recommended by AI assistants like ChatGPT, Claude, Perplexity, and Google AI Overviews — without paid ads.
+
+Wadsworth measures how often AI assistants recommend a business when real customers ask relevant questions, then does the work to improve that visibility: creating optimized content, building structured data, and maintaining an AI-readable business profile. It serves small to medium local businesses, eCommerce brands, SaaS companies, content creators, and marketing agencies. Wadsworth is the only done-for-you platform purpose-built for answer-engine optimization (AEO).
+
+## Core Pages
+- Homepage: https://wadsworth.ai
+- How It Works: https://wadsworth.ai/how-it-works
+- Pricing: https://wadsworth.ai/pricing
+- Blog: https://wadsworth.ai/blog
+- Free AI Visibility Check: https://wadsworth.ai/#check
+
+## Product Workflow
+1. Run a free AI visibility check — no signup required, results in ~15 seconds
+2. See your score: which AI assistants mention you and who they recommend instead
+3. Wadsworth creates your AI-readable profile, structured data, and optimized content
+4. Track your AI visibility score month over month as it improves
+5. Upgrade or downgrade your plan anytime based on growth needs
+
+## Key Features
+- Real-time AI visibility scoring across ChatGPT, Claude, Perplexity, and Google AI Overviews
+- Done-for-you content creation optimized for answer engines
+- Structured data and schema markup generation
+- AI-readable business profile hosted and maintained by Wadsworth
+- Answer Engine Optimization (AEO) strategy and execution
+- Competitor citation monitoring — see who AI recommends instead of you
+- Monthly visibility tracking and reporting
+- No paid advertising required
+
+## Use Cases
+- A local plumber wants to appear when someone asks ChatGPT for the best plumber in their city
+- An eCommerce brand wants to be cited when AI answers product recommendation questions
+- A SaaS company wants to rank in AI-generated software comparison answers
+- A content creator wants to be recommended by AI when fans ask about their niche
+- A marketing agency wants to offer AI visibility services to all its clients
+- A business owner wants to know why a competitor is recommended by AI instead of them
+
+## Brand Positioning
+Wadsworth is the organic alternative to paid AI advertising. It positions itself as a 'digital butler' — doing the technical and creative work of AI visibility so business owners don't have to. The tone is practical, trustworthy, and category-defining. Wadsworth coined the use of 'AI visibility score' as a business metric.
+
+## Optional Footer Pages
+- Privacy Policy: https://wadsworth.ai/privacy
+- Terms of Service: https://wadsworth.ai/terms
+- Contact: https://wadsworth.ai/contact
